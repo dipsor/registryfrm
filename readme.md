@@ -1,3 +1,7 @@
+#registryfrm
+2014/2015 project 
+
+todo:
 1) 	udelat dynamicky autoload. 
 	pro vybrane slozky autoload automaticky nacte vsechny .php soubory. 
 	splneno. 
